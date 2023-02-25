@@ -1,5 +1,5 @@
 {
-  "short_name": "React App",
+  "short_name": "My first PWA",
   "name": "Create React App Sample",
   "icons": [
     {
@@ -18,8 +18,9 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "start_url": ".", 
+ "theme_color": "#F4BD42", 
+ "background_color": "#2B2929", 
+ "display": "standalone", 
+ "scope": "/" 
 }
